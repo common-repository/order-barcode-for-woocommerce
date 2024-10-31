@@ -1,0 +1,23 @@
+div.bcode{
+ border-left: 1px black solid ;
+ height: 30px;
+ display: inline-block;
+} 
+div.order_id_text
+{
+	font-size: 8px;
+	font-weight: bold;
+}
+.hide
+{
+	display: none;
+}
+.show
+{
+	display: block;
+}
+.column-4
+{
+	width:24% !important;
+	display: inline-block;
+}
